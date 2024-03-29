@@ -1,5 +1,5 @@
 # C# 프로젝트_ZaionSoft CRUD Project
-ㅊ# 자이온소프트 주소록 CRUD 프로그램
+C# 자이온소프트 주소록 CRUD 프로그램
 
 
 ## 🖥️ 프로젝트 소개
